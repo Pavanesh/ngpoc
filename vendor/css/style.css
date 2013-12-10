@@ -1,0 +1,12 @@
+.gyn-header {
+    background-color: #F07D00;
+    background-image: linear-gradient(to bottom, #F8900A 0%, #F07D00 100%);
+    box-shadow: 0 1px 2px #999999;
+    height: 50px;
+    left: 0;
+    min-width: 980px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
